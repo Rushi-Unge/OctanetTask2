@@ -158,7 +158,7 @@ h1 {
 }
 @media (max-width: 768px) {
     img{
-        margin-top: 250px;
+        margin-top: 50px;
     }
 }
 @media (min-width: 768px) {
